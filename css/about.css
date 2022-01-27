@@ -1,0 +1,7 @@
+.section-about{
+    height: 100vh;
+    background-color: darkgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
